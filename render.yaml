@@ -1,7 +1,7 @@
 # Exported from Render on 2024-04-14T03:18:49Z
 services:
 - type: web
-  name: nyanyanyacat
+  name: xerox-my01
   runtime: python
   repo: https://github.com/Skype-GitHub/YUKI-GOD
   plan: free
